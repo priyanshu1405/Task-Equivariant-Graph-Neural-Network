@@ -6,7 +6,8 @@
 </p>
 
 The official model code for [**Task-Equivariant Graph Few-shot Learning**](https://arxiv.org/abs/2305.18758).
-The official repository for [**Investigating Task Equivariant Graph Performance on Diverse Tasks**]
+<br>
+The official repository for [**Investigating Task Equivariant Graph Performance on Diverse Tasks**](https://github.com/priyanshu1405/Task-Equivariant-Graph-Neural-Network).
 
 ## Abstract 
  Few-shot node classification is an emerging challenge, where labelled data
